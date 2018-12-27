@@ -1,0 +1,6 @@
+D:\UCAB\Proyecto\IS_C#15524\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.AccesoDatos\bin\Debug\ServicioLotoUCAB.Servicio.AccesoDatos.dll
+D:\UCAB\Proyecto\IS_C#15524\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.AccesoDatos\bin\Debug\ServicioLotoUCAB.Servicio.AccesoDatos.pdb
+D:\UCAB\Proyecto\IS_C#15524\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.AccesoDatos\obj\Debug\ServicioLotoUCAB.Servicio.AccesoDatos.csprojAssemblyReference.cache
+D:\UCAB\Proyecto\IS_C#15524\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.AccesoDatos\obj\Debug\ServicioLotoUCAB.Servicio.AccesoDatos.csproj.CoreCompileInputs.cache
+D:\UCAB\Proyecto\IS_C#15524\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.AccesoDatos\obj\Debug\ServicioLotoUCAB.Servicio.AccesoDatos.dll
+D:\UCAB\Proyecto\IS_C#15524\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.AccesoDatos\obj\Debug\ServicioLotoUCAB.Servicio.AccesoDatos.pdb
